@@ -103,7 +103,7 @@ Self-check:
 - [ ] Tôi hiểu deep-dive gồm validation, research, workflow, metric, PS và AI decision.
 
 ---
-
+  
 # Phase 1 — Individual Scan: tìm 5+ problems (25')
 
 ## Mục tiêu
