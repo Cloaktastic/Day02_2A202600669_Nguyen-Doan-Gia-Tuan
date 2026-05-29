@@ -5,18 +5,18 @@ Mỗi thành viên trong nhóm trình bày các candidate problems từ lăng k�
 
 | # | Người đưa ra | Candidate problem | Người gặp vấn đề | Điểm nghẽn | Cảm nhận nhanh |
 |---|---|---|---|---|---|
-| 1 | Thành viên 1 | Đánh giá thủ công sự thay đổi của văn bản luật | Sinh viên làm đồ án RAG | Đọc đối chiếu 2 bản PDF hành chính tốn 2-3 tiếng | Rất cụ thể, tính ứng dụng kỹ thuật cao |
-| 2 | Thành viên 1 | "Bơi" trong tài liệu công nghệ (Documentation) | Thực tập sinh mới | Mất 2-3 ngày đọc tài liệu và tự search lỗi cấu hình | Context rộng, quy trình mang tính khám phá |
-| 3 | Thành viên 1 | Đánh giá chất lượng câu trả lời của Chatbot RAG | Sinh viên, AI Developer | Ngồi đọc và chấm điểm thủ công từng câu (45-60 phút) | Workflow rất chặt, đậm chất kỹ thuật AI |
-| 4 | Thành viên 2 | Tìm phòng trọ quanh khu Vinhomes | Sinh viên, Intern | Tin đăng hết phòng chưa xóa, ảnh khác thực tế | Bài toán consumer quen thuộc nhưng khó verify data |
-| 5 | Thành viên 2 | Chọn đồ ăn trong canteen mất thời gian | Sinh viên, NV văn phòng | Thiếu thông tin realtime về độ đông và giá | Tần suất lặp lại cao, thiên về bài toán Rule |
-| 6 | Thành viên 2 | Giá đồ ăn nội khu quá cao | Cư dân, sinh viên | Mất thời gian so sánh giá và tìm combo lợi nhất | Thiên về hướng xây dựng app/web so sánh giá |
-| 7 | Thành viên 3 | Review Problem Card của học viên | Lab Coach | Phải kiểm tra thủ công các lỗi lặp lại, thiếu field | Workflow cực kỳ rõ, có sẵn data mẫu tại lớp |
-| 8 | Thành viên 3 | Ghép nhóm học viên làm dự án | BTC, Lab Coach | Đọc hồ sơ và đánh giá năng lực thủ công số lượng lớn | Workflow ngắn, mang tính chất thuật toán gom cụm |
-| 9 | Thành viên 3 | Theo dõi học viên có nguy cơ bỏ cuộc | Lab Coach | Tổng hợp dữ liệu thủ công từ nhiều nguồn LMS/Git | Bài toán dự đoán rủi ro tốt nhưng khó thu thập data |
-| 10| Thành viên 4 | Weekly review report | Nhân viên, Manager | Nhân viên giấu review để bảo vệ bản thân | Đau đớn thật nhưng rào cản tâm lý khó giải bằng AI |
-| 11| Thành viên 4 | Cost report | Nhân viên tài chính | Tối ưu hóa việc viết báo cáo thu nhập, độ chính xác | Thiên về tính chính xác số liệu, nặng về Rule |
-| 12| Thành viên 4 | Food waste | Quán ăn, Khách hàng | Xu hướng khách hàng ăn gì biến động liên tục | Bài toán dự báo chuỗi thời gian, khó giải quyết trong lab |
+| 1 | Nguyễn Anh Chức | Đánh giá thủ công sự thay đổi của văn bản luật | Sinh viên làm đồ án RAG | Đọc đối chiếu 2 bản PDF hành chính tốn 2-3 tiếng | Rất cụ thể, tính ứng dụng kỹ thuật cao |
+| 2 | Nguyễn Anh Chức | Phải xử lý nhiều tài liệu công nghệ mới | Thực tập sinh mới | Mất 2-3 ngày đọc tài liệu và tự search lỗi cấu hình | Context rộng, quy trình mang tính khám phá |
+| 3 | Nguyễn Anh Chức | Đánh giá chất lượng câu trả lời của Chatbot RAG | Sinh viên, AI Developer | Ngồi đọc và chấm điểm thủ công từng câu (45-60 phút) | Workflow rất chặt, đậm chất kỹ thuật AI |
+| 4 | Trần Văn Quang | Tìm phòng trọ quanh khu Vinhomes | Sinh viên, Intern | Tin đăng hết phòng chưa xóa, ảnh khác thực tế | Bài toán consumer quen thuộc nhưng khó verify data |
+| 5 | Trần Văn Quang | Chọn đồ ăn trong canteen mất thời gian | Sinh viên, NV văn phòng | Thiếu thông tin realtime về độ đông và giá | Tần suất lặp lại cao, thiên về bài toán Rule |
+| 6 | Trần Văn Quang | Giá đồ ăn nội khu quá cao | Cư dân, sinh viên | Mất thời gian so sánh giá và tìm combo lợi nhất | Thiên về hướng xây dựng app/web so sánh giá |
+| 7 | Nguyễn Thành Lam | Review Problem Card của học viên | Lab Coach | Phải kiểm tra thủ công các lỗi lặp lại, thiếu field | Workflow cực kỳ rõ, có sẵn data mẫu tại lớp |
+| 8 | Nguyễn Thành Lam | Ghép nhóm học viên làm dự án | BTC, Lab Coach | Đọc hồ sơ và đánh giá năng lực thủ công số lượng lớn | Workflow ngắn, mang tính chất thuật toán gom cụm |
+| 9 | Nguyễn Thành Lam | Theo dõi học viên có nguy cơ bỏ cuộc | Lab Coach | Tổng hợp dữ liệu thủ công từ nhiều nguồn LMS/Git | Bài toán dự đoán rủi ro tốt nhưng khó thu thập data |
+| 10| Nguyễn Đoàn Gia Tuấn | Weekly review report | Nhân viên, Manager | Nhân viên giấu review để bảo vệ bản thân | Đau đớn thật nhưng rào cản tâm lý khó giải bằng AI |
+| 11| Nguyễn Đoàn Gia Tuấn | Cost report | Nhân viên tài chính | Tối ưu hóa việc viết báo cáo thu nhập, độ chính xác | Thiên về tính chính xác số liệu, nặng về Rule |
+| 12| Nguyễn Đoàn Gia Tuấn | Food waste | Quán ăn, Khách hàng | Xu hướng khách hàng ăn gì biến động liên tục | Bài toán dự báo chuỗi thời gian, khó giải quyết trong lab |
 
 ---
 
